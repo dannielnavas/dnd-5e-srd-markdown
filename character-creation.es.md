@@ -1,7 +1,11 @@
 # <!--
+
 # Esta obra contiene material del System Reference Document 5.2.1 (SRD 5.2.1) de Wizards of the Coast LLC.
+
 # Se usa bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
 # Ver https://creativecommons.org/licenses/by/4.0/ — Atribución requerida.
+
 # -->
 
 # Creación de Personajes
@@ -121,7 +125,7 @@ _Empezar en un Nivel Superior._ Tu DM podría hacerte empezar en un nivel superi
 
 #### Anota la Enseñanza de Armadura
 
-Tu clase puede darte entrenamiento con ciertas categorías de armadura. Anota ese entrenamiento en tu hoja. El entrenamiento con un tipo de armadura significa que puedes usar esa armadura de forma efectiva, obteniendo bonificaciones defensivas de ella. Las categorías de armadura se describen en "Equipo." 
+Tu clase puede darte entrenamiento con ciertas categorías de armadura. Anota ese entrenamiento en tu hoja. El entrenamiento con un tipo de armadura significa que puedes usar esa armadura de forma efectiva, obteniendo bonificaciones defensivas de ella. Las categorías de armadura se describen en "Equipo."
 
 ### Paso 2: Origen del Personaje
 
@@ -182,7 +186,7 @@ La tabla de rasgos de tu clase muestra tu Bono de Competencia (descrito en "Juga
 
 #### Elige Equipamiento Inicial
 
-Tu trasfundo y clase proporcionan equipamiento inicial. Cualquier moneda que obtengas en este paso se puede gastar inmediatamente en equipo de la sección "Equipo." 
+Tu trasfundo y clase proporcionan equipamiento inicial. Cualquier moneda que obtengas en este paso se puede gastar inmediatamente en equipo de la sección "Equipo."
 
 Registra el equipo elegido en tu hoja. El equipo se describe en "Equipo", pero por ahora puedes anotarlo y consultar los detalles más tarde. Anota cualquier moneda que te quede.
 
@@ -297,7 +301,7 @@ La tabla de Idiomas Raros enumera idiomas secretos o derivados de otros planos y
   </tbody>
 </table>
 
-*Primordial incluye los dialectos Aquan, Auran, Ignan y Terran. Las criaturas que conocen uno de estos dialectos pueden comunicarse con las que conocen otro.
+\*Primordial incluye los dialectos Aquan, Auran, Ignan y Terran. Las criaturas que conocen uno de estos dialectos pueden comunicarse con las que conocen otro.
 
 ### Paso 3: Puntuaciones de Habilidad
 

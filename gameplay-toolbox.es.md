@@ -1,7 +1,11 @@
 # <!--
+
 # Esta obra contiene material del System Reference Document 5.2.1 (SRD 5.2.1) de Wizards of the Coast LLC.
+
 # Se usa bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
 # Ver https://creativecommons.org/licenses/by/4.0/ — Atribución requerida.
+
 # -->
 
 # Caja de Herramientas de Juego
@@ -142,7 +146,7 @@ Los personajes que viajan en un vehículo usan la velocidad del vehículo en mil
   </tbody>
 </table>
 
-*Se necesita equipo apropiado (como esquís) para mantener un ritmo Rápido en terreno Ártico.
+\*Se necesita equipo apropiado (como esquís) para mantener un ritmo Rápido en terreno Ártico.
 †La tasa de viaje de los personajes cuando están sobre el agua depende del vehículo que los transporta; ver "Vehicles".
 
 ## Crear un Trasfondo

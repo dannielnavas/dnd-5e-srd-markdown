@@ -1,7 +1,11 @@
 # <!--
+
 # Esta obra contiene material del System Reference Document 5.2.1 (SRD 5.2.1) de Wizards of the Coast LLC.
+
 # Se usa bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
 # Ver https://creativecommons.org/licenses/by/4.0/ — Atribución requerida.
+
 # -->
 
 # Animals (Español)
@@ -78,7 +82,7 @@ _Gran Bestia (Dinosaurio), Neutral_
 
 ## Ankylosaurus
 
- Enorme Bestia (Dinosaurio), Neutral
+Enorme Bestia (Dinosaurio), Neutral
 
 **CA** 15 **Iniciativa** +0 (10) <br>
 **PV** 68 (8d12 + 16) <br>

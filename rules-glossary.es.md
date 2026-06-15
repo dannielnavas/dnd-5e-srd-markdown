@@ -1,7 +1,11 @@
 # <!--
+
 # Esta obra contiene material del System Reference Document 5.2.1 (SRD 5.2.1) de Wizards of the Coast LLC.
+
 # Se usa bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
 # Ver https://creativecommons.org/licenses/by/4.0/ — Atribución requerida.
+
 # -->
 
 # Glosario de Reglas
@@ -330,7 +334,7 @@ Si tomas la acción Dash, obtienes movimiento extra durante el turno actual igua
 
 Si tienes una velocidad especial, como Fly Speed o Swim Speed, puedes usar esa velocidad en lugar de tu Speed al tomar esta acción. Elige la velocidad cada vez que la tomas. _Ver también_ "Speed."
 
-[...] 
+[...]
 
 #### Hide [Action]
 

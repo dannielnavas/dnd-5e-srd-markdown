@@ -1,7 +1,7 @@
 # D&D 5e SRD 5.2.1 Markdown (2024) - Complete 5th Edition Reference
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![D&D 5e 2024](https://img.shields.io/badge/D%26D%205e-2024%20(5.2.1)-red.svg)](https://www.dndbeyond.com/)
+[![D&D 5e 2024](<https://img.shields.io/badge/D%26D%205e-2024%20(5.2.1)-red.svg>)](https://www.dndbeyond.com/)
 [![Format](https://img.shields.io/badge/format-markdown-blue.svg)](https://commonmark.org/)
 
 The complete **D&D 5e (2024) System Reference Document 5.2.1** converted to clean, developer-friendly Markdown format. Perfect for developers, content creators, and DMs who need programmatic access to official **Dungeons & Dragons 5th Edition** rules. Includes all 12 classes, 500+ spells, 400+ monsters, and complete D&D 5e gameplay rules.
@@ -54,11 +54,11 @@ cp -r dnd-5e-srd-markdown ./src/data/srd
 
 ```javascript
 // Example: Load spell data in a Next.js app
-import fs from 'fs';
-import path from 'path';
+import fs from "fs";
+import path from "path";
 
-const spellsPath = path.join(process.cwd(), 'data/srd/spells.md');
-const spellsMarkdown = fs.readFileSync(spellsPath, 'utf8');
+const spellsPath = path.join(process.cwd(), "data/srd/spells.md");
+const spellsMarkdown = fs.readFileSync(spellsPath, "utf8");
 ```
 
 ### For VTT Development
@@ -67,8 +67,8 @@ Integrate official D&D rules directly into your Virtual Tabletop:
 
 ```typescript
 // Parse classes for character creation
-import { marked } from 'marked';
-import classData from './srd/classes.md';
+import { marked } from "marked";
+import classData from "./srd/classes.md";
 
 const parsedClasses = marked.parse(classData);
 ```

@@ -1,7 +1,11 @@
 # <!--
+
 # Esta obra contiene material del System Reference Document 5.2.1 (SRD 5.2.1) de Wizards of the Coast LLC.
+
 # Se usa bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
 # Ver https://creativecommons.org/licenses/by/4.0/ — Atribución requerida.
+
 # -->
 
 # Equipo
@@ -761,4 +765,4 @@ Las Herramientas de Artesano se centran en fabricar objetos y ejercer un oficio.
 **Kit del Envenenador (50 GP)**
 **Habilidad:** Inteligencia **Peso:** 2 lb.
 **Utilizar:** Detectar un objeto envenenado (DC 10)
-**Fabri
+\*\*Fabri

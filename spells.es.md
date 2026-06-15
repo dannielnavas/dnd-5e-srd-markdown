@@ -1,7 +1,11 @@
 # <!--
+
 # Esta obra contiene material del System Reference Document 5.2.1 (SRD 5.2.1) de Wizards of the Coast LLC.
+
 # Se usa bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
 # Ver https://creativecommons.org/licenses/by/4.0/ — Atribución requerida.
+
 # -->
 
 # Conjuros
@@ -388,7 +392,7 @@ _Nivel 8 Enchantment (Bard, Druid, Wizard)_
 
 (Entrada traducida parcialmente por brevedad; continuación disponible bajo demanda.)
 
-[...] 
+[...]
 
 #### Mano Arcana (Arcane Hand)
 
@@ -412,5 +416,3 @@ Al lanzar y como Bonus Action en turnos posteriores, puedes mover la mano hasta 
 **Mano agarradora.** La mano intenta agarrar a una criatura Huge o menor dentro de 5 feet. El objetivo hace una tirada de salvación de Dexterity; si falla, queda Grappled con un escape DC igual a tu DC de salvación de conjuro. Mientras la mano la tiene, puedes usar una Bonus Action para machacarla, causando daño Bludgeoning.
 
 **Mano interponedora.** La mano te otorga Half Cover contra ataques y efectos que se originen en su espacio o lo atraviesen. Además, su espacio cuenta como Difficult Terrain para tus enemigos.
-
-
