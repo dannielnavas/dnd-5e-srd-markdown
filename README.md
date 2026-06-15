@@ -157,6 +157,16 @@ Dungeons & Dragons, D&D, and their respective logos are trademarks of Wizards of
 
 This repository contains material from the System Reference Document 5.2.1, which is © 2024 Wizards of the Coast LLC. Used under Creative Commons Attribution 4.0 International License.
 
+### Example attribution / Ejemplo de atribución
+
+If you reuse content from this repository in a project, you can include a short attribution like the following:
+
+> "System Reference Document 5.2.1 (SRD 5.2.1) by Wizards of the Coast LLC — used under Creative Commons Attribution 4.0 International (CC BY 4.0). Markdown conversion by downfallx/dnd-5e-srd-markdown."
+
+Si reutilizas contenido de este repositorio, puedes usar una atribución en español como esta:
+
+> "System Reference Document 5.2.1 (SRD 5.2.1) de Wizards of the Coast LLC — usado bajo Creative Commons Atribución 4.0 Internacional (CC BY 4.0). Conversión a Markdown por downfallx/dnd-5e-srd-markdown."
+
 ## Contributing
 
 Found a formatting issue or conversion error? Contributions are welcome!
